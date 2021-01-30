@@ -151,3 +151,16 @@ ul.menu li a:hover {
   margin-top: 3%;
   margin-left: 2%;
 }
+
+.sidebar ul {
+  margin: 0;
+}
+
+.sidebar ul li {
+  list-style-type: none;
+  margin: 0 0 0 0;
+}
+
+.sidebar .rating_sidebar {
+  float: right;
+}
