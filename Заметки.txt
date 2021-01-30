@@ -1,0 +1,18 @@
+a href ссылка
+html {
+ul (li) - список
+}
+css {
+background color - цвет фона
+height - высота блока
+font-size - размер шрифта
+margin left - отсутуп слева
+mergin right - отступ справа
+width - ширина
+padding - внутренний отступ
+letter_spacing - интервал между символами
+color - цвет
+text-decoration - стилизация ссылки a (обычный, подчеркнутый, перечеркнутый, линия над текстом)
+float (right) - прижать элемент к правому краю
+list style (none) - не хотим видеть точки перед каждым элементом списка 
+}
